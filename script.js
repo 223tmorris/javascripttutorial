@@ -313,5 +313,9 @@
 
 
 
-// the document object model
+// tutorial 6 - the document object model
 
+const para = document.querySelector('p');
+console.log(para);
+
+9:39
